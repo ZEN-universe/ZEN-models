@@ -7,7 +7,7 @@ on:
 
 jobs:
   test_data_structure:
-    runs-on: ubuntu-latest  # You can change this to another OS if you prefer
+    runs-on: ubuntu-latest
 
     steps:
     - name: Checkout code
@@ -16,8 +16,8 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.11'  # Set the desired Python version (use '3.x' for latest)
+        python-version: '3.11'
 
     - name: Run data structure test
       run: |
-        python data_structure_test.py  # Run your Python script that checks the data structure
+        python data_structure_test.py  
