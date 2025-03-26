@@ -4,7 +4,7 @@ import json
 # Paths
 DATASET_DIR = "data"  # Root dataset directory
 REQUIRED_FILES_FOLDERS = {
-    'energy_system': ['base_units.json', 'set_nodes.csv', 'set_edges.csv'],
+    'energy_system': ['attributes.json', 'base_units.json', 'set_nodes.csv', 'set_edges.csv'],
     'set_technologies': ['set_conversion_technologies', 'set_storage_technologies', 'set_transport_technologies'],
     'set_carriers': []
 }
