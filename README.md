@@ -14,9 +14,9 @@ ___
 ___
 # Dataset Name (please change)
 
-![Static Badge](https://img.shields.io/badge/ZEN--garden_version-CHANGE_THE_VERSION-%23627313?labelColor=%23215CAF) (<-- please change the ZEN-garden version in the badge)
+[![Static Badge](https://img.shields.io/badge/ZEN--garden_version-CHANGE_THE_VERSION-%23627313?labelColor=%23215CAF)](https://github.com/ZEN-universe/ZEN-garden) (<-- please change the ZEN-garden version in the badge)
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ZEN-universe/ZEN-models/data_structure_check.yml?branch=CHANGE_THE_BRANCH_NAME) (<-- please change branch name)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ZEN-universe/ZEN-models/data_structure_check.yml?branch=CHANGE_THE_BRANCH_NAME)](https://github.com/ZEN-universe/ZEN-models/actions) (<-- please change branch name)
 
 ## 1. Description
 
