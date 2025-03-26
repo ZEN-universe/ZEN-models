@@ -2,12 +2,6 @@ name: Data Structure Check
 
 on:
   push:
-    branches:
-      - '*'
-    # Exclude the main branch
-    # `!main` excludes the main branch
-    # This means it will run on all branches except `main`
-    # (the `*` wildcard includes all branches)
     branches-ignore:
       - 'main'
 
