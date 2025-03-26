@@ -1,8 +1,8 @@
 # Crystal Ball 
 
-![Static Badge](https://img.shields.io/badge/ZEN--garden_version-v2.2.20-%23627313?labelColor=%23215CAF) 
+[![Static Badge](https://img.shields.io/badge/ZEN--garden_version-v2.2.20-%23627313?labelColor=%23215CAF)](https://github.com/ZEN-universe/ZEN-garden) 
 
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ZEN-universe/ZEN-models/data_structure_check.yml?branch=Crystal_Ball)
+[![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ZEN-universe/ZEN-models/data_structure_check.yml?branch=Crystal_Ball)](https://github.com/ZEN-universe/ZEN-models/actions)
 
 ## 1. Description
 
@@ -13,7 +13,7 @@ It included 12 final energy demands: electricity, heat, passenger and truck tran
 The dataset contains capacity expansion constraints.
 
 ### Date
-Creation date: 2025-03-26 
+Creation date: 26-03-2025
 
 ## 2. Dataset Summary
 A structured summary of key dataset attributes.
