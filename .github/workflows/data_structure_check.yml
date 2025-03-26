@@ -20,4 +20,4 @@ jobs:
 
     - name: Run data structure test
       run: |
-        python scripts/data_structure_test.py  # Run your Python script that checks the data structure
+        python data_structure_test.py  # Run your Python script that checks the data structure

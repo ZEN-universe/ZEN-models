@@ -2,7 +2,7 @@ import os
 import json
 
 # Paths
-DATASET_DIR = os.path.join(os.path.dirname(os.getcwd()),"data")  # Root dataset directory
+DATASET_DIR = "data"  # Root dataset directory
 REQUIRED_FILES_FOLDERS = {
     'energy_system': ['base_units.json', 'set_nodes.csv', 'set_edges.csv'],
     'set_technologies': ['set_conversion_technologies', 'set_storage_technologies', 'set_transport_technologies'],
