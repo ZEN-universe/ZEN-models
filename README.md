@@ -1,57 +1,40 @@
-___
-___
-# DELETE THIS SECTION AFTER COMPLETING THE TEMPLATE
+# Crystal Ball 
 
-## Workflow to add a new dataset
-1. Create a new branch with the name of the dataset on Github.
-2. Clone the new branch to your local machine: `git clone -b <branch-name> git@github.com:ZEN-universe/ZEN-models.git`
-3. Add your dataset to the `data` folder. The first level of `data` should contain the dataset and `config.json` file.
-4. Fill out the template below, follow the "<--" instructions
-5. Delete this section and all the extra comments below
-6. Commit and push your changes to the new branch.
+![Static Badge](https://img.shields.io/badge/ZEN--garden_version-v2.2.20-%23627313?labelColor=%23215CAF) 
 
-___
-___
-# Dataset Name (please change)
-
-![Static Badge](https://img.shields.io/badge/ZEN--garden_version-CHANGE_THE_VERSION-%23627313?labelColor=%23215CAF) (<-- please change the ZEN-garden version in the badge)
-
-![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ZEN-universe/ZEN-models/data_structure_check.yml?branch=CHANGE_THE_BRANCH_NAME) (<-- please change branch name)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/ZEN-universe/ZEN-models/data_structure_check.yml?branch=Crystal_Ball)
 
 ## 1. Description
 
 ### Purpose
-<-- Provide a brief description of the dataset and its intended use.
+This dataset models the transition of the sector-coupled European energy system from 2022 to 2050.
+It included 12 final energy demands: electricity, heat, passenger and truck transport, shipping, aviation, primary and secondary steel, ammonia, methanol, olefins, and cement.
 
-### Associated publication (if applicable)
-<-- Link to any associated publications or reports.
+The dataset contains capacity expansion constraints.
 
 ### Date
-Creation date: YYYY-MM-DD (<-- please change)
+Creation date: 2025-03-26 
 
 ## 2. Dataset Summary
 A structured summary of key dataset attributes.
 
-| Attribute                      | Description                   |
-|--------------------------------|-------------------------------|
-| **Spatial Scope**              | e.g., EU28                    |
-| **Number of Nodes**            | e.g., 10                      |
-| **Temporal Scope**             | e.g., 2020-2050               |
-| **Number of Investment Years** | e.g., 4 (every 10 years)      |
-| **Number of Time Steps**       | e.g., 8760 (aggregated to 100) |
-| **Number of Technologies**     | e.g., 15                      |
-| **Number of Energy Carriers**  | e.g., 10                      |
+| Attribute                      | Description                |
+|--------------------------------|----------------------------|
+| **Spatial Scope**              | EU27 + NO, CH, UK - MT, CY |
+| **Number of Nodes**            | 28                         |
+| **Temporal Scope**             | 2022-2050                  |
+| **Number of Investment Years** | 15 (every 2 years)         |
+| **Number of Time Steps**       | 8760 (aggregated to 10)    |
+| **Number of Technologies**     | 82                         |
+| **Number of Energy Carriers**  | 30                         |
 
 ## 3. Framework Compatibility
 
 - [x] This model runs with the main branch of ZEN-garden for the specified version.
 
-<-- If the model does not run with the main branch of ZEN-garden, please specify the fork and branch that is compatible.
-
 ## 4. Comments
-<-- Include any relevant notes, limitations, or recommendations for using this dataset.
+It is the same dataset as the Optimism/Pessimism dataset, except for the treatment of carbon management technologies, as described in the paper
 
 ## 5. Contributors
-<-- List the contributors to this dataset.
 
-- Erika Bünzli, ebuenzli@example.ch
+- Jacob Mannhardt, jmannhardt@ethz.ch
