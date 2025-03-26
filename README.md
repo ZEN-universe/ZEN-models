@@ -27,7 +27,7 @@ ___
 <-- Link to any associated publications or reports.
 
 ### Date
-Creation date: YYYY-MM-DD (<-- please change)
+Creation date: DD-MM-YYYY (<-- please change)
 
 ## 2. Dataset Summary
 A structured summary of key dataset attributes.
