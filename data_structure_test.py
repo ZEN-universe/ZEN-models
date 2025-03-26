@@ -92,6 +92,9 @@ def validate_dataset(path=DATASET_DIR,dataset_name=None):
     """Main function to validate the dataset structure."""
     # assert that path exists
     assert (os.path.exists(path)), f"Error: Invalid dataset path: {path}"
+    # skip test if data folder is empty
+    if len(os.listdir(path)) == 0:
+        return False
     # validate config.json
     validate_config(path)
     # validate data folder
@@ -112,11 +115,15 @@ def validate_dataset(path=DATASET_DIR,dataset_name=None):
             raise ValueError(f"Error: Missing required file {required_file} in {energy_system_path}")
     check_folder_structure(dataset_path, {'set_technologies': REQUIRED_FILES_FOLDERS['set_technologies'],
                                   'set_carriers': REQUIRED_FILES_FOLDERS['set_carriers']})
+    return True
 
 if __name__ == "__main__":
     try:
-        validate_dataset()
+        data_is_filled = validate_dataset()
     except ValueError as e:
         print(e)
         exit(1)  # Exit with error code 1 to indicate failure
-    print("Dataset structure is valid.")
+    if data_is_filled:
+        print("Dataset structure is valid.")
+    else:
+        print("Dataset is empty. Skipping validation.")

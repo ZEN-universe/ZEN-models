@@ -18,13 +18,6 @@ jobs:
       with:
         python-version: '3.11'
 
-    - name: Check if data directory exists
-      run: |
-        if [ ! -d "./data" ]; then
-          echo "No data found. Skipping test."
-          exit 0
-        fi
-
     - name: Run data structure test
       run: |
         python data_structure_test.py  
