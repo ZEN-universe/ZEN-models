@@ -12,7 +12,7 @@ ___
 
 ___
 ___
-# Dataset Name (please change)
+# Climate-resilience
 
 [![Static Badge](https://img.shields.io/badge/ZEN--garden_version-CHANGE_THE_VERSION-%23627313?labelColor=%23215CAF)](https://github.com/ZEN-universe/ZEN-garden) (<-- please change the ZEN-garden version in the badge)
 
@@ -21,37 +21,37 @@ ___
 ## 1. Description
 
 ### Purpose
-<-- Provide a brief description of the dataset and its intended use.
+This dataset descibe the European energy system model utilized in the work "Climate-resilient panning of energy systems via system-informed identification of stressful events". The model includes climate-related time series for all the 60 climate scenarios considered. 
 
 ### Associated publication (if applicable)
-<-- Link to any associated publications or reports.
+Publication currently under review. 
 
 ### Date
-Creation date: DD-MM-YYYY (<-- please change)
+Creation date: 25-11-2024
 
 ## 2. Dataset Summary
 A structured summary of key dataset attributes.
 
 | Attribute                      | Description                   |
 |--------------------------------|-------------------------------|
-| **Spatial Scope**              | e.g., EU28                    |
-| **Number of Nodes**            | e.g., 10                      |
-| **Temporal Scope**             | e.g., 2020-2050               |
-| **Number of Investment Years** | e.g., 4 (every 10 years)      |
-| **Number of Time Steps**       | e.g., 8760 (aggregated to 100) |
-| **Number of Technologies**     | e.g., 15                      |
-| **Number of Energy Carriers**  | e.g., 10                      |
+| **Spatial Scope**              | EU28                    |
+| **Number of Nodes**            |  28                      |
+| **Temporal Scope**             | 2050, fully hourly resolved               |
+| **Number of Investment Years** | 1      |
+| **Number of Time Steps**       | 8760 |
+| **Number of Technologies**     | 30                      |
+| **Number of Energy Carriers**  | 9                     |
 
 ## 3. Framework Compatibility
 
 - [x] This model runs with the main branch of ZEN-garden for the specified version.
 
-<-- If the model does not run with the main branch of ZEN-garden, please specify the fork and branch that is compatible.
 
 ## 4. Comments
-<-- Include any relevant notes, limitations, or recommendations for using this dataset.
+This model produces 60 single-climate system, via the scenario analysis feature of ZEN-garden. 
 
 ## 5. Contributors
-<-- List the contributors to this dataset.
+- Francesco De Marco, fdemarco@ethz.ch
+- Jacob Mannhardt, jmannhardt@ethz.ch
 
 - Erika Bünzli, ebuenzli@example.ch
