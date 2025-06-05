@@ -53,5 +53,3 @@ This model produces 60 single-climate system, via the scenario analysis feature 
 ## 5. Contributors
 - Francesco De Marco, fdemarco@ethz.ch
 - Jacob Mannhardt, jmannhardt@ethz.ch
-
-- Erika Bünzli, ebuenzli@example.ch
