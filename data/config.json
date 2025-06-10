@@ -1,0 +1,18 @@
+{
+  "analysis": {
+    "dataset": "multi_year_storage_23_25_negative"
+  },
+"solver": {
+  "name": "gurobi",
+  "solver_options":
+    {
+      "Method": 2,
+      "NodeMethod": 2,
+      "Crossover": 0,
+      "Threads": 64,
+      "DualReductions": 0
+    },
+  "save_duals": true
+  }
+
+}

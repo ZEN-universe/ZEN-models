@@ -1,0 +1,3002 @@
+{
+    "1": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_1"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_1"
+            },
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_1"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_1"
+            }
+        }
+    },
+    "2": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_2"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_2"
+            },
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_2"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_2"
+            }
+        }
+    },
+    "3": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_3"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_3"
+            },
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_3"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_3"
+            }
+        }
+    },
+    "4": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_4"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_4"
+            },
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_4"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_4"
+            }
+        }
+    },
+    "5": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_5"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_5"
+            },
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_5"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_5"
+            }
+        }
+    },
+    "6": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_6"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_6"
+            },
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_6"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_6"
+            }
+        }
+    },
+    "7": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_7"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_7"
+            },
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_7"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_7"
+            }
+        }
+    },
+    "8": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_8"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_8"
+            },
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_8"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_8"
+            }
+        }
+    },
+    "9": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_9"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_9"
+            },
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_9"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_9"
+            }
+        }
+    },
+    "10": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_10"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_10"
+            },
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_10"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_10"
+            }
+        }
+    },
+    "11": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_11"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_11"
+            },
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_11"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_11"
+            }
+        }
+    },
+    "12": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_12"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_12"
+            },
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_12"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_12"
+            }
+        }
+    },
+    "13": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_13"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_13"
+            },
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_13"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_13"
+            }
+        }
+    },
+    "14": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_14"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_14"
+            },
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_14"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_14"
+            }
+        }
+    },
+    "15": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_15"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_15"
+            },
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_15"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_15"
+            }
+        }
+    },
+    "16": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_16"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_16"
+            },
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_16"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_16"
+            }
+        }
+    },
+    "17": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_17"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_17"
+            },
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_17"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_17"
+            }
+        }
+    },
+    "18": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_18"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_18"
+            },
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_18"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_18"
+            }
+        }
+    },
+    "19": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_19"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_19"
+            },
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_19"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_19"
+            }
+        }
+    },
+    "20": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_20"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_20"
+            },
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_20"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_20"
+            }
+        }
+    },
+    "21": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_21"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_21"
+            },
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_21"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_21"
+            }
+        }
+    },
+    "22": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_22"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_22"
+            },
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_22"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_22"
+            }
+        }
+    },
+    "23": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_23"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_23"
+            },
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_23"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_23"
+            }
+        }
+    },
+    "24": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_24"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_24"
+            },
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_24"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_24"
+            }
+        }
+    },
+    "25": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_25"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_25"
+            },
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_25"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_25"
+            }
+        }
+    },
+    "26": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_26"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_26"
+            },
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_26"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_26"
+            }
+        }
+    },
+    "27": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_27"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_27"
+            },
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_27"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_27"
+            }
+        }
+    },
+    "28": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_28"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_28"
+            },
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_28"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_28"
+            }
+        }
+    },
+    "29": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_29"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_29"
+            },
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_29"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_29"
+            }
+        }
+    },
+    "30": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_30"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_30"
+            },
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_30"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_30"
+            }
+        }
+    },
+    "31": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_31"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_31"
+            },
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_31"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_31"
+            }
+        }
+    },
+    "32": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_32"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_32"
+            },
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_32"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_32"
+            }
+        }
+    },
+    "33": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_33"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_33"
+            },
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_33"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_33"
+            }
+        }
+    },
+    "34": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_34"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_34"
+            },
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_34"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_34"
+            }
+        }
+    },
+    "35": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_35"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_35"
+            },
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_35"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_35"
+            }
+        }
+    },
+    "36": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_36"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_36"
+            },
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_36"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_36"
+            }
+        }
+    },
+    "37": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_37"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_37"
+            },
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_37"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_37"
+            }
+        }
+    },
+    "38": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_38"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_38"
+            },
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_38"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_38"
+            }
+        }
+    },
+    "39": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_39"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_39"
+            },
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_39"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_39"
+            }
+        }
+    },
+    "40": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_40"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_40"
+            },
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_40"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_40"
+            }
+        }
+    },
+    "41": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_41"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_41"
+            },
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_41"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_41"
+            }
+        }
+    },
+    "42": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_42"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_42"
+            },
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_42"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_42"
+            }
+        }
+    },
+    "43": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_43"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_43"
+            },
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_43"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_43"
+            }
+        }
+    },
+    "44": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_44"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_44"
+            },
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_44"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_44"
+            }
+        }
+    },
+    "45": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_45"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_45"
+            },
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_45"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_45"
+            }
+        }
+    },
+    "46": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_46"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_46"
+            },
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_46"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_46"
+            }
+        }
+    },
+    "47": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_47"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_47"
+            },
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_47"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_47"
+            }
+        }
+    },
+    "48": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_48"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_48"
+            },
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_48"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_48"
+            }
+        }
+    },
+    "49": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_49"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_49"
+            },
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_49"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_49"
+            }
+        }
+    },
+    "50": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_50"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_50"
+            },
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_50"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_50"
+            }
+        }
+    },
+    "51": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_51"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_51"
+            },
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_51"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_51"
+            }
+        }
+    },
+    "52": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_52"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_52"
+            },
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_52"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_52"
+            }
+        }
+    },
+    "53": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_53"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_53"
+            },
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_53"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_53"
+            }
+        }
+    },
+    "54": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_54"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_54"
+            },
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_54"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_54"
+            }
+        }
+    },
+    "55": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_55"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_55"
+            },
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_55"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_55"
+            }
+        }
+    },
+    "56": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_56"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_56"
+            },
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_56"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_56"
+            }
+        }
+    },
+    "57": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_57"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_57"
+            },
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_57"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_57"
+            }
+        }
+    },
+    "58": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_58"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_58"
+            },
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_58"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_58"
+            }
+        }
+    },
+    "59": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_59"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_59"
+            },
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_59"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_59"
+            }
+        }
+    },
+    "60": {
+        "photovoltaics": {
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "wind_onshore": {
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "wind_offshore": {
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "run-of-river_hydro": {
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "reservoir_hydro": {
+            "flow_storage_inflow": {
+                "file": "flow_storage_inflow_60"
+            }
+        },
+        "heat_pump": {
+            "conversion_factor": {
+                "file": "conversion_factor_60"
+            },
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "biomass_boiler": {
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "natural_gas_boiler": {
+            "max_load": {
+                "file": "max_load_60"
+            }
+        },
+        "heat": {
+            "demand": {
+                "file": "demand_60"
+            }
+        }
+    }
+}
