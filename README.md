@@ -1,17 +1,3 @@
-___
-___
-# DELETE THIS SECTION AFTER COMPLETING THE TEMPLATE
-
-## Workflow to add a new dataset
-1. Create a new branch with the name of the dataset on Github.
-2. Clone the new branch to your local machine: `git clone -b <branch-name> git@github.com:ZEN-universe/ZEN-models.git`
-3. Add your dataset to the `data` folder. The first level of `data` should contain the dataset and `config.json` file.
-4. Fill out the template below, follow the "<--" instructions
-5. Delete this section and all the extra comments below
-6. Commit and push your changes to the new branch.
-
-___
-___
 # Climate-resilience
 
 [![Static Badge](https://img.shields.io/badge/ZEN--garden_version-2.0.19-%23627313?labelColor=%23215CAF)](https://github.com/ZEN-universe/ZEN-garden)
