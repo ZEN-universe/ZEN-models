@@ -1,6 +1,6 @@
 {
   "analysis": {
-    "dataset": "multi_year_storage_23_25_negative"
+    "dataset": "20241125_GF"
   },
 "solver": {
   "name": "gurobi",
