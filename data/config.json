@@ -1,6 +1,6 @@
 {
   "analysis": {
-    "dataset": "snapshot"
+    "dataset": "Crystal_Ball"
   },
   "solver": {
     "name": "gurobi",
@@ -14,7 +14,6 @@
       "ScaleFlag": 2,
       "BarOrder": 0
     },
-    "add_duals": false,
     "use_scaling": false,
     "run_diagnostics": true,
     "scaling_include_rhs": true
