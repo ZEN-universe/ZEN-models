@@ -1,0 +1,54 @@
+{
+    "availability_export": {
+        "default_value": 0.0,
+        "unit": "GW"
+    },
+    "availability_export_total": {
+        "default_value": "inf",
+        "unit": "GWh"
+    },
+    "availability_export_yearly": {
+        "default_value": 0.0,
+        "unit": "GWh"
+    },
+    "availability_import": {
+        "default_value": "inf",
+        "unit": "GW"
+    },
+    "availability_import_total": {
+        "default_value": "inf",
+        "unit": "GWh"
+    },
+    "availability_import_yearly": {
+        "default_value": "inf",
+        "unit": "GWh"
+    },
+    "carbon_intensity_carrier_export": {
+        "default_value": 0.0,
+        "unit": "kg/kWh"
+    },
+    "carbon_intensity_carrier_import": {
+        "default_value": 0.0,
+        "unit": "kg/kWh"
+    },
+    "carrier_lca_factors": {
+        "default_value": 0.0,
+        "unit": "1/kWh"
+    },
+    "demand": {
+        "default_value": 0.0,
+        "unit": "GW"
+    },
+    "price_export": {
+        "default_value": 0.0,
+        "unit": "Euro/MWh"
+    },
+    "price_import": {
+        "default_value": 0.12,
+        "unit": "Euro/kWh"
+    },
+    "price_shed_demand": {
+        "default_value": "inf",
+        "unit": "Euro/MWh"
+    }
+}

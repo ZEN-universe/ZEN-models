@@ -1,0 +1,120 @@
+{
+    "capacity_addition_max": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capacity_addition_min": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_addition_unbounded": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_addition_unbounded_super": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_existing": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_investment_existing": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_limit": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capacity_limit_country": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capacity_limit_super": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capex_specific_conversion": {
+        "default_value": 60.53,
+        "unit": "megaEuro/(tons/hour)"
+    },
+    "carbon_intensity_technology": {
+        "default_value": -970,
+        "unit": "kg/tons"
+    },
+    "construction_time": {
+        "default_value": 2,
+        "unit": "1"
+    },
+    "conversion_factor": {
+        "co2_biogenic": {
+            "default_value": 1.0,
+            "unit": "tons/tons"
+        },
+        "electricity": {
+            "default_value": 1.11111,
+            "unit": "MWh/tons"
+        }
+    },
+    "downtime": {
+        "default_value": 0,
+        "unit": "hour"
+    },
+    "failure_rate": {
+        "default_value": 0,
+        "unit": "1/year"
+    },
+    "input_carrier": {
+        "default_value": [
+            "co2_biogenic",
+            "electricity"
+        ]
+    },
+    "lifetime": {
+        "default_value": 25,
+        "unit": "1"
+    },
+    "max_diffusion_rate": {
+        "default_value": "inf",
+        "unit": "1"
+    },
+    "max_diffusion_rate_super": {
+        "default_value": "inf",
+        "unit": "1"
+    },
+    "max_load": {
+        "default_value": 0.9,
+        "unit": "1"
+    },
+    "min_full_load_hours_fraction": {
+        "default_value": 0,
+        "unit": "1"
+    },
+    "min_load": {
+        "default_value": 0,
+        "unit": "1"
+    },
+    "opex_specific_fixed": {
+        "default_value": 1.85,
+        "unit": "megaEuro/(tons/hour)"
+    },
+    "opex_specific_variable": {
+        "default_value": 123,
+        "unit": "Euro/tons"
+    },
+    "output_carrier": {
+        "default_value": [
+            "co2_ambient"
+        ]
+    },
+    "reference_carrier": {
+        "default_value": [
+            "co2_ambient"
+        ]
+    },
+    "technology_lca_factors": {
+        "default_value": 0,
+        "unit": "1/tons"
+    }
+}

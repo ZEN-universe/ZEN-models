@@ -1,0 +1,153 @@
+{
+  "scenarios": {
+    "infDiff": {},
+    "capdistDiff_mL": {
+      "set_transport_technologies": {
+        "max_diffusion_rate_super": {
+          "default": "attr_special",
+          "default_op": 0.6,
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "min_load": {
+          "default": "attr_special",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "cap_dist_addition_unbounded_super": {
+          "default_op": 1.6,
+          "exclude": ["truck", "barge", "ship", "train"]
+        }
+      },
+      "system": {
+        "set_conversion_technologies": [
+          "capture_99",
+          "condition_16bar",
+          "condition_16bar_110bar",
+          "condition_110bar",
+          "dac",
+          "decomp_16bar_ambient",
+          "decomp_110_16bar",
+          "decomp_110bar_ambient",
+          "emitter",
+          "permanent_storage"
+        ],
+        "transport_diffusion_type": "capacity-distance"
+      }
+    },
+    "capdistDiff_mL_NPT_constr_time": {
+      "set_transport_technologies": {
+        "max_diffusion_rate_super": {
+          "default": "attr_special",
+          "default_op": 0.6},
+        "min_load": {
+          "default": "attr_special",
+          "exclude": ["truck", "barge", "ship", "train"]},
+        "cap_dist_addition_unbounded_super": {
+          "default_op": 1.6, 
+          "exclude": ["truck", "ship", "train", "barge"]},
+        "construction_time": {"default": "attr_special"}},
+        "system": {"transport_diffusion_type": "capacity-distance"}
+    },
+    "capdistDiff_mL_PO_dac": {
+      "set_transport_technologies": {
+        "max_diffusion_rate_super": {
+          "default": "attr_special",
+          "default_op": 0.6,
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "min_load": {
+          "default": "attr_special",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "cap_dist_addition_unbounded_super": {
+          "default_op": 1.6,
+          "exclude": ["truck", "barge", "ship", "train"]
+        }
+      },
+      "system": {
+        "set_transport_technologies": ["pipeline_onshore", "pipeline_offshore"],
+        "set_conversion_technologies": [
+          "capture_99",
+          "condition_16bar",
+          "condition_16bar_110bar",
+          "condition_110bar",
+          "dac",
+          "decomp_16bar_ambient",
+          "decomp_110_16bar",
+          "decomp_110bar_ambient",
+          "emitter",
+          "permanent_storage"
+        ],
+        "transport_diffusion_type": "capacity-distance"
+      }
+    },
+    "capDiff_mL_PO": {
+      "set_transport_technologies": {
+        "max_diffusion_rate_super": {
+          "default": "attr_special",
+          "default_op": [0, 0.2, 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6],
+          "default_op_fmt": "diff_rate_{}",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "min_load": {
+          "default": "attr_special",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "capacity_addition_unbounded_super": {
+          "default_op": [0.05, 0.4, 0.8, 1.2, 1.6, 2, 2.4, 2.8, 3.2, 3.6, 4, 4.4, 4.8, 5.2, 5.6, 6, 6.5, 7, 7.5, 8, 8.5, 9],
+          "default_op_fmt": "unbd_{}",
+          "exclude": ["truck", "barge", "ship", "train"]
+        }
+      },
+      "system": {
+        "set_transport_technologies": ["pipeline_onshore", "pipeline_offshore"],
+        "transport_diffusion_type": "capacity"
+      }
+    },
+    "capdistDiff_mL_PO": {
+      "set_transport_technologies": {
+        "max_diffusion_rate_super": {
+          "default": "attr_special",
+          "default_op": [0, 0.2, 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6],
+          "default_op_fmt": "diff_rate_{}",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "min_load": {
+          "default": "attr_special",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "cap_dist_addition_unbounded_super": {
+          "default_op": [0.05, 0.2, 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6, 2.8, 3, 3.2, 3.4, 3.6, 3.8, 4, 4.2, 4.4, 4.6, 4.8, 5],
+          "default_op_fmt": "unbd_{}",
+          "exclude": ["truck", "barge", "ship", "train"]
+        }
+      },
+      "system": {
+        "set_transport_technologies": ["pipeline_onshore", "pipeline_offshore"],
+        "transport_diffusion_type": "capacity-distance"
+      }
+    },
+    "distDiff_mL_PO": {
+      "set_transport_technologies": {
+        "max_diffusion_rate_super": {
+          "default": "attr_special",
+          "default_op": [0, 0.2, 0.4, 0.6, 0.8, 1, 1.2, 1.4, 1.6, 1.8, 2, 2.2, 2.4, 2.6],
+          "default_op_fmt": "diff_rate_{}",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "min_load": {
+          "default": "attr_special",
+          "exclude": ["truck", "barge", "ship", "train"]
+        },
+        "distance_addition_unbounded_super": {
+          "default_op": [0.075, 0.15, 0.225, 0.3, 0.375, 0.45, 0.525, 0.6, 0.675, 0.75, 0.825, 0.9, 0.975, 1.05],
+          "default_op_fmt": "unbd_{}",
+          "exclude": ["truck", "barge", "ship", "train"]
+        }
+      },
+      "system": {
+        "set_transport_technologies": ["pipeline_onshore", "pipeline_offshore"],
+        "transport_diffusion_type": "distance"
+      }
+    }
+  }
+}

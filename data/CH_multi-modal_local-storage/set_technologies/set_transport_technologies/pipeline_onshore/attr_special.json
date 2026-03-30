@@ -1,0 +1,26 @@
+{
+    "capacity_limit_super": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "construction_time": {
+        "default_value": 6,
+        "unit": "1"
+    },
+    "depreciation_time": {
+        "default_value": 1,
+        "unit": "1"
+    },
+    "max_diffusion_rate_super": {
+        "default_value": 0.2,
+        "unit": "1"
+    },
+    "max_load": {
+        "default_value": 1,
+        "unit": "1"
+    },
+    "min_load": {
+        "default_value": 0.6,
+        "unit": "1"
+    }
+}

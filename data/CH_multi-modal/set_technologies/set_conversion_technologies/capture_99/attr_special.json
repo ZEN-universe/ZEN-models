@@ -1,0 +1,22 @@
+{
+    "capacity_addition_unbounded": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_addition_unbounded_super": {
+        "default_value": 20,
+        "unit": "tons/hour"
+    },
+    "capacity_limit_super": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "construction_time": {
+        "default_value": 0,
+        "unit": "1"
+    },
+    "max_diffusion_rate_super": {
+        "default_value": 0.1,
+        "unit": "1"
+    }
+}

@@ -1,0 +1,38 @@
+{
+  "set_conversion_technologies": [
+    "capture_99",
+    "condition_16bar",
+    "condition_16bar_110bar",
+    "condition_110bar",
+    "decomp_16bar_ambient",
+    "decomp_110_16bar",
+    "decomp_110bar_ambient",
+    "emitter",
+    "permanent_storage"
+  ],
+  "set_transport_technologies": [
+    "pipeline_offshore",
+    "pipeline_onshore",
+    "ship",
+    "truck",
+    "train",
+    "barge"
+  ],
+  "set_flexible_transport_technologies": [
+    "ship",
+    "truck",
+    "train",
+    "barge"
+  ],
+  "transport_diffusion_type": "capacity-distance",
+  "set_nodes": [],
+  "unaggregated_time_steps_per_year": 8760,
+  "aggregated_time_steps_per_year": 1,
+  "conduct_time_series_aggregation": true,
+  "reference_year": 2026,
+  "optimized_years": 9,
+  "interval_between_years": 3,
+  "conduct_scenario_analysis": true,
+  "run_default_scenario": false,
+  "double_capex_transport": true
+}

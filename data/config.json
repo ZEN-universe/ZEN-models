@@ -1,0 +1,16 @@
+{
+  "analysis": {
+    "dataset": "CH_multi-modal"
+  },
+"solver": {
+  "name": "gurobi",
+  "solver_options":
+    {
+      "Threads": 128,
+      "MIPGap": 0.01,
+      "TimeLimit": 85000,
+      "IntegralityFocus": 1
+    },
+  "use_scaling": true
+  }
+}

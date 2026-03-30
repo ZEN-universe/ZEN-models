@@ -1,0 +1,123 @@
+{
+    "cap_dist_addition_unbounded_super": {
+        "default_value": "inf",
+        "unit": "tons/hour*km"
+    },
+    "capacity_addition_max": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capacity_addition_min": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_addition_unbounded": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_addition_unbounded_super": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capacity_existing": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_investment_existing": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_limit": {
+        "default_value": 0,
+        "unit": "tons/hour"
+    },
+    "capacity_limit_country": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capacity_limit_super": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "capex_per_distance_transport": {
+        "default_value": 148.92,
+        "unit": "Euro/(tons/hour)/km"
+    },
+    "capex_specific_transport": {
+        "default_value": 0,
+        "unit": "Euro/(tons/hour)"
+    },
+    "carbon_intensity_technology": {
+        "default_value": 0.03222,
+        "unit": "kg/tons"
+    },
+    "construction_time": {
+        "default_value": 0,
+        "unit": "1"
+    },
+    "depreciation_time": {
+        "default_value": 10,
+        "unit": "1"
+    },
+    "distance": {
+        "default_value": "inf",
+        "unit": "km"
+    },
+    "distance_addition_unbounded_super": {
+        "default_value": "inf",
+        "unit": "km"
+    },
+    "downtime": {
+        "default_value": 240,
+        "unit": "hour"
+    },
+    "failure_rate": {
+        "default_value": 1e-05,
+        "unit": "1/km/year"
+    },
+    "lifetime": {
+        "default_value": 10,
+        "unit": "1"
+    },
+    "max_diffusion_rate": {
+        "default_value": "inf",
+        "unit": "1"
+    },
+    "max_diffusion_rate_super": {
+        "default_value": "inf",
+        "unit": "1"
+    },
+    "max_load": {
+        "default_value": 1,
+        "unit": "1"
+    },
+    "min_load": {
+        "default_value": 0,
+        "unit": "1"
+    },
+    "nominal_flow_transport": {
+        "default_value": "inf",
+        "unit": "tons/hour"
+    },
+    "opex_specific_fixed": {
+        "default_value": 0,
+        "unit": "Euro/(tons/hour)"
+    },
+    "opex_specific_variable": {
+        "default_value": 0.06,
+        "unit": "Euro/tons"
+    },
+    "reference_carrier": {
+        "default_value": [
+            "co2_16bar"
+        ]
+    },
+    "technology_lca_factors": {
+        "default_value": 0,
+        "unit": "1/tons/km"
+    },
+    "transport_loss_factor_linear": {
+        "default_value": 1e-06,
+        "unit": "1/km"
+    }
+}

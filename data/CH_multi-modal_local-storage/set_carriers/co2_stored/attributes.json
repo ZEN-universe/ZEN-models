@@ -1,0 +1,54 @@
+{
+    "availability_export": {
+        "default_value": "inf",
+        "unit": "megatons/year"
+    },
+    "availability_export_total": {
+        "default_value": "inf",
+        "unit": "megatons"
+    },
+    "availability_export_yearly": {
+        "default_value": 0,
+        "unit": "megatons"
+    },
+    "availability_import": {
+        "default_value": 0.0,
+        "unit": "tons/hour"
+    },
+    "availability_import_total": {
+        "default_value": "inf",
+        "unit": "megatons"
+    },
+    "availability_import_yearly": {
+        "default_value": 0.0,
+        "unit": "tons"
+    },
+    "carbon_intensity_carrier_export": {
+        "default_value": 0,
+        "unit": "tons/tons"
+    },
+    "carbon_intensity_carrier_import": {
+        "default_value": 0,
+        "unit": "tons/tons"
+    },
+    "carrier_lca_factors": {
+        "default_value": 0.0,
+        "unit": "1/tons"
+    },
+    "demand": {
+        "default_value": 0.0,
+        "unit": "kilotons/year"
+    },
+    "price_export": {
+        "default_value": 0.0,
+        "unit": "Euro/tons"
+    },
+    "price_import": {
+        "default_value": 0.0,
+        "unit": "Euro/tons"
+    },
+    "price_shed_demand": {
+        "default_value": "inf",
+        "unit": "Euro/tons"
+    }
+}
