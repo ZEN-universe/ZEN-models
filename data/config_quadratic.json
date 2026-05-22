@@ -1,0 +1,34 @@
+{
+    "analysis": {
+        "dataset": "Crystal_Ball"
+    },
+    "solver": {
+        "name": "gurobi",
+        "save_duals": 1,
+        "keep_files": true,
+        "solver_options": {
+            "Method": 2,
+            "NodeMethod": 2,
+            "BarHomogeneous": 1,
+            "DualReductions": 0,
+            "Threads": 8,
+            "Crossover": 0,
+            "Presolve": -1,
+            "ScaleFlag": 2,
+            "BarOrder": -1,
+            "NumericFocus": 2,
+            "LogFile": "./outputs_20260522-124309/capex/lambda_10000000.0/solver.log"
+        },
+        "use_scaling": false,
+        "run_diagnostics": true,
+        "scaling_include_rhs": true
+    },
+    "plugins": {
+        "mean_variance_optimization": {
+            "weighting_factor": 10000000.0,
+            "include_variances_for": [
+                "technology_capex"
+            ]
+        }
+    }
+}
