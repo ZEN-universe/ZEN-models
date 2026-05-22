@@ -17,11 +17,18 @@
             "ScaleFlag": 2,
             "BarOrder": -1,
             "NumericFocus": 2,
-            "LogFile": "./outputs_20260522-130605/linear/solver.log"
+            "LogFile": "./outputs_20260522-124309/capex/lambda_10000000.0/solver.log"
         },
         "use_scaling": false,
         "run_diagnostics": true,
         "scaling_include_rhs": true
     },
-    "plugins": {}
+    "plugins": {
+        "mean_variance_optimization": {
+            "weighting_factor": 10000000.0,
+            "include_variances_for": [
+                "technology_capex"
+            ]
+        }
+    }
 }
