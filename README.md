@@ -9,8 +9,8 @@
 ### Purpose
 This dataset descibe the European energy system model utilized in the work "Climate-resilient panning of energy systems via system-informed identification of stressful events". The model includes climate-related time series for all the 60 climate scenarios considered. 
 
-### Associated publication (if applicable)
-Publication currently under review. 
+### Associated publication
+[Climate-resilient energy systems planning via system-informed identification of stressful events](https://doi.org/10.1016/j.adapen.2025.100235)
 
 ### Date
 Creation date: 25-11-2024
